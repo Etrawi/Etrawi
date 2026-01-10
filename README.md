@@ -34,7 +34,7 @@ I am passionate about building interactive web applications, currently focusing 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etrawi&show_icons=true&theme=dark&hide_border=true" alt="Anwr's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Etrawi&show_icons=true&theme=dark&hide_border=true" alt="ANWR'S Stats" />
 </p>
 
 ---
